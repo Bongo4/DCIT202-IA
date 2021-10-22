@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dcitIA",
+    "slug": "dcitIA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dcitIA"
+}
